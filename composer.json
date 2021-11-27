@@ -19,7 +19,7 @@
     "illuminate/cache": "~4",
     "illuminate/config": "~4",
     "illuminate/http": "~4",
-    "philf/setting": "~1.0.1"
+    "janhartigan/setting": "~1.0.1"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.3.4",
